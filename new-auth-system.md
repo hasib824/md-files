@@ -6,9 +6,6 @@
 > its own. A second cookie protects against fake requests from other sites. The **API gateway** is the
 > guard that checks all of this on every request.
 
-Deep-dive references (read these after this tutorial):
-`per-device-logout.md`, `frontend-auth-httponly-cookie-contract.md`, `auth-cookie-domain-deployment.md`.
-
 ---
 
 ## A few words first (mini-glossary)
